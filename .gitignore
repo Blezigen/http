@@ -3,6 +3,7 @@
 !/.php-cs-fixer.dist.php
 !/.editorconfig
 !/.gitattributes
+!/.gitlab-ci.yml
 /runtime/
 /vendor/
 /composer.lock
